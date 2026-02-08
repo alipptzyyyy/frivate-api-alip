@@ -1,4 +1,4 @@
-  const fs = require('fs')
+const fs = require('fs')
 const nodemailer = require('nodemailer')
 
 // ====== CONFIG DASAR ======
