@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/", "dest": "index.html" },
+    { "src": "/banding", "dest": "/api/banding.js" },
+    { "src": "/test", "dest": "/api/testsend.js" }, 
+    { "src": "/cek", "dest": "/api/checkkey.js" }
+  ]
+}
